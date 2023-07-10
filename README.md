@@ -1,4 +1,4 @@
-##Devcamp JS footer
+Devcamp JS footer
 
 > This should be used in the following manner:
 
