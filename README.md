@@ -11,7 +11,7 @@ npm install --save devcamp-js-amaya-footer
 Add to a JavaScript project with the following code:
 
 ```javascript
-import { footer } from 'devcamp-js-Amaya-footer';
+import { footer } from 'devcamp-js-amaya-footer';
 
 footer('Some Name);
 ```
